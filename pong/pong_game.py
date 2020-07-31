@@ -8,7 +8,7 @@ WHITE = (128, 128, 128)
 BLACK = (0, 0, 0)
 RED = (255, 0, 0)
 
-FPS = 30
+FPS = 32
 
 FramesPerSec = pygame.time.Clock()
 SCREEN_WIDTH = 512

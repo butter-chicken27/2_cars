@@ -1,2 +1,2 @@
 # 2_cars
-pygame Example
+pygame example projects
